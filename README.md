@@ -7,5 +7,12 @@ Features used: CoreData, JSON parsing, multithreading
 ---
 ### Screenshots
 
-<img width="1077" alt="scene" src="https://user-images.githubusercontent.com/7841727/50624829-3de38300-0ee9-11e9-93b6-b468eb137617.png">
+<p>
+<img width="150" alt="screenshot" src="https://user-images.githubusercontent.com/31356268/51428004-b5f6bc00-1bfe-11e9-850e-07a81c16bbd6.png">
+<img width="150" alt="screenshot" src="https://user-images.githubusercontent.com/31356268/51428005-b98a4300-1bfe-11e9-9fdc-4ccd765ccefd.png">
+<img width="150" alt="screenshot" src="https://user-images.githubusercontent.com/31356268/51428007-bee78d80-1bfe-11e9-9066-55c4816bc097.png">
+<p>
+</p>
+<img width="350" alt="screenshot" src="https://user-images.githubusercontent.com/31356268/51428011-c5760500-1bfe-11e9-9d6d-a475c4cbf8e6.png">
+</p>
 
